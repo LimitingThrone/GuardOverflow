@@ -1,3 +1,7 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "sonarlint.connectedMode.project": {
+        "connectionId": "limitingthrone",
+        "projectKey": "LimitingThrone_GuardOverflow"
+    }
 }
